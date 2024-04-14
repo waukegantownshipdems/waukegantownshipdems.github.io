@@ -1,0 +1,15 @@
+- links:
+    - name: About
+      link: /about/
+    - name: Join Us
+      link: https://actionnetwork.org/forms/waukegandems-sign-up-form/
+      new_window: true
+
+- links:
+    - name: Facebook
+      link: https://facebook.com/WaukeganTownshipDemocrats/
+      new_window: true
+    - name: Donate
+      link: https://secure.actblue.com/donate/waukegan-democrats-1
+      new_window: true
+      highlight: true
