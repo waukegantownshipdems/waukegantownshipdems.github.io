@@ -20,14 +20,11 @@ description: >- # this means to ignore newlines until "baseurl:"
 author:
   name: "Waukegan Township Democrats"
   email: waukegandems@gmail.com
-  twitter: # twitter username without the @ symbol
-social:
-  name: Hydra Template
-  links:
-    - https://github.com/CloudCannon/hydra-jekyll-template
 
 # -----
 # Build
+
+destination: docs/
 
 timezone: Etc/UTC
 
